@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing:border-box;
+}
+
+body,html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	padding-top: 40px;
+	background-image: url(http://www.pessegadoro.com/wp-content/uploads/2012/10/escher511.jpg);
+	background-position: center top;
+	background: cover;
+	font-family: 'Open Sans', sans-serif;
+}
+
+p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #282828;
+
+}
