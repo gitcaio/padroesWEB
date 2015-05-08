@@ -14,6 +14,7 @@ body{
 	background-image: url(http://www.pessegadoro.com/wp-content/uploads/2012/10/escher511.jpg);
 	background-position: center top;
 	background: cover;
+	max-width: 100%;
 	font-family: 'Open Sans', sans-serif;
 }
 
